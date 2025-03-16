@@ -1,0 +1,25 @@
+{
+  "name": "ramen-rating-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "opn index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonmwang/ramen-dishes-reputations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonmwang/ramen-dishes-reputations/issues"
+  },
+  "homepage": "https://github.com/bonmwang/ramen-dishes-reputations#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "opn-cli": "^4.1.0"
+  }
+}
